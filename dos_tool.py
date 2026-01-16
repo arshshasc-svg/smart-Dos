@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fsociety Smart DoS Tool - FOR AUTHORIZED TESTING ONLY
+Smart DoS Tool - FOR AUTHORIZED TESTING ONLY
 Stealth scanning + intelligent attack recommendations
 """
 
